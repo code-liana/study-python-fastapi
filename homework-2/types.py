@@ -74,3 +74,4 @@ dictionarie_2 = {"name": "Rose",
 
 dictionary_3 = {**dictionarie_1, **dictionarie_2}
 
+print(dictionary_3)
