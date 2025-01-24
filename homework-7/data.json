@@ -1,0 +1,122 @@
+[
+  {
+    "brand": "Toyota",
+    "model": "Camry",
+    "year_created": 2020,
+    "type": "Car"
+  },
+  {
+    "brand": "Ford",
+    "model": "F-150",
+    "year_created": 2022,
+    "type": "Truck"
+  },
+  {
+    "brand": "Harley-Davidson",
+    "model": "Sportster",
+    "year_created": 2019,
+    "type": "Motorcycle"
+  },
+  {
+    "brand": "Honda",
+    "model": "CR-V",
+    "year_created": 2021,
+    "type": "SUV"
+  },
+  {
+    "brand": "Tesla",
+    "model": "Model S",
+    "year_created": 2023,
+    "type": "Electric"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Silverado",
+    "year_created": 2018,
+    "type": "Truck"
+  },
+  {
+    "brand": "BMW",
+    "model": "X5",
+    "year_created": 2022,
+    "type": "SUV"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Leaf",
+    "year_created": 2020,
+    "type": "Electric"
+  },
+  {
+    "brand": "Dodge",
+    "model": "Grand Caravan",
+    "year_created": 2019,
+    "type": "Van"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Prius",
+    "year_created": 2021,
+    "type": "Hybrid"
+  },
+  {
+    "brand": "Yamaha",
+    "model": "YZF-R3",
+    "year_created": 2022,
+    "type": "Motorcycle"
+  },
+  {
+    "brand": "Kawasaki",
+    "model": "Ninja 400",
+    "year_created": 2021,
+    "type": "Motorcycle"
+  },
+  {
+    "brand": "Honda",
+    "model": "Activa 6G",
+    "year_created": 2023,
+    "type": "Scooter"
+  },
+  {
+    "brand": "Vespa",
+    "model": "Primavera",
+    "year_created": 2020,
+    "type": "Scooter"
+  },
+  {
+    "brand": "BMW",
+    "model": "S1000RR",
+    "year_created": 2022,
+    "type": "Motorcycle"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q5",
+    "year_created": 2023,
+    "type": "SUV"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "C-Class",
+    "year_created": 2021,
+    "type": "Car"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Tucson",
+    "year_created": 2022,
+    "type": "SUV"
+  },
+  {
+    "brand": "Suzuki",
+    "model": "Access 125",
+    "year_created": 2021,
+    "type": "Scooter"
+  },
+  {
+    "brand": "KTM",
+    "model": "Duke 390",
+    "year_created": 2022,
+    "type": "Motorcycle"
+  }
+]
